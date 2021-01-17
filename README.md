@@ -5,5 +5,5 @@ Integration für FreeNAS aus dem Standard "NAKIVO_Backup_Replication_v10.1.1.485
 ## Support
 
 ```
-support@nakivo.com
+
 ```
