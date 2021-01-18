@@ -1,5 +1,5 @@
 {
-    "name": "nbr",
+    "name": "nbr_free",
     "release": "11.3-RELEASE",
     "artifact": "https://github.com/tattinio/nbr_free.git",
     "properties": {
